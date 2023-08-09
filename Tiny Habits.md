@@ -3,6 +3,7 @@
 
 ## Tiny Habits - BJ Fogg
 **1.Takeaways**
+
     * It's easier to stick to a habit if it's tiny.
     * The key to building a habit is to make it so easy that you can't say no.
     * The B=MAP formula can help you create tiny habits:
@@ -14,6 +15,7 @@
 
 ## Tiny Habits by BJ Fogg - Core Message
 **2.Takeaways**
+
     * The core message of Tiny Habits is that anyone can change their behavior by making tiny changes that are easy to stick to.
     * BJ Fogg, the author of Tiny Habits, calls these tiny changes "atomic habits."
     * Atomic habits are so small that they're almost effortless to do. This makes them much easier to stick to than big, ambitious goals.
