@@ -4,29 +4,28 @@
 ## Tiny Habits - BJ Fogg
 **1.Takeaways**
 
-    * It's easier to stick to a habit if it's tiny.
-    * The key to building a habit is to make it so easy that you can't say no.
-    * The B=MAP formula can help you create tiny habits:
-        * **B** = Behavior: What do you want to do?
-        * **M** = Motivation: What will make you do it?
-        * **A** = Ability: How easy is it to do?
-    * You can make a habit easier by making the behavior smaller, the motivation stronger, or the ability easier.
-    * It's important to celebrate your successes, no matter how small they are.
+* **Tiny Habits**: Start with easy tasks to make forming habits simple and manageable.
+
+* **Can't Say No**: Make habits so easy that you can't resist doing them.
+
+* **B=MAP Formula**: Behavior (what you want to do), Motivation (why it matters), Ability (how easy it is).
+
+* **Adjusting Habits**: Make behavior smaller, boost motivation, or simplify the task to ensure success.
+
+* **Celebrate Wins**: Even small victories help reinforce habits.
+
+
 
 ## Tiny Habits by BJ Fogg - Core Message
 **2.Takeaways**
+* **Tiny Habits**: Changing behavior through small, easy-to-maintain adjustments.
+* **Atomic Habits**: Extremely small changes that are effortless, making them easier to stick to than big goals.
+* **Compound Effect**: Accumulating small changes over time leads to significant results.
+* **B=MAP Formula**: Behavior, Motivation, Ability - the trio to guide habit formation.
+* **Adjusting Habits**: Simplify behavior, strengthen motivation, or enhance ease.
+* **Celebrate Wins**: Acknowledging even minor successes is crucial.
 
-    * The core message of Tiny Habits is that anyone can change their behavior by making tiny changes that are easy to stick to.
-    * BJ Fogg, the author of Tiny Habits, calls these tiny changes "atomic habits."
-    * Atomic habits are so small that they're almost effortless to do. This makes them much easier to stick to than big, ambitious goals.
-    * Fogg argues that if you can make enough tiny changes, they will eventually add up to big results.
-    * He calls this the "compound effect."
-    * The key to making atomic habits is to follow the B=MAP formula:
-        * **B** = Behavior: What do you want to do?
-        * **M** = Motivation: What will make you do it?
-        * **A** = Ability: How easy is it to do?
-    * You can make a habit easier by making the behavior smaller, the motivation stronger, or the ability easier.
-    * It's important to celebrate your successes, no matter how small they are.
+These principles emphasize the power of gradual, consistent actions in transforming habits and achieving lasting change.
 
 **3.How can you use B = MAP to make making new habits easier?**
 
